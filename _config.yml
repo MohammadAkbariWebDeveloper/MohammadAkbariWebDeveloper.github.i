@@ -100,7 +100,6 @@ apps:
    description: #
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>JVM</strong>: My name is mohammad Akbari & I am WebDeveloper & l live in tehran.  <br/>
-   I dont have experience untill 2018 but I have a lot of programming skills. 
+additionalinfo:
+
    <br/>
