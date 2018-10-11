@@ -8,15 +8,15 @@ name: Mohammad Akbari
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: #
+ - title: instagram
+   url: https://www.instagram.com/akbari__mohammad__/
  - title: GitHub
    url: https://github.com/MohammadAkbariWebDeveloper
+ - title: telegram
+   url: https://telegram.me/moohammad10
  - title: StackOverflow
    url: #
- - title: instagram
-   url: #
- - title: telegram
+ - title: blog
    url: #
 
 #Any buzzword skills you want to include
